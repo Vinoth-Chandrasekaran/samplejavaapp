@@ -1,3 +1,2 @@
 Sample Java Applicaiton V3.5
-Changes for jenkins trigger(yes)
-..
+Changes for jenkins trigger
